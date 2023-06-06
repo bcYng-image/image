@@ -1,0 +1,138 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="476pt" height="562pt" viewBox="0.00 0.00 476.31 562.00">
+<g id="graph0" class="graph" transform="translate(17.952455023620928,524.4293334594416) scale(0.9330329915368081)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-558 472.31,-558 472.31,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterSirius_by_Humanity">
+
+<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 448.31,-8 448.31,-8 454.31,-8 460.31,-14 460.31,-20 460.31,-20 460.31,-397 460.31,-397 460.31,-403 454.31,-409 448.31,-409 448.31,-409 20,-409 20,-409 14,-409 8,-403 8,-397 8,-397 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
+<text text-anchor="middle" x="234.16" y="-392.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Sirius_by_Humanity</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="75.79,-417 75.79,-546 419.95,-546 419.95,-417 75.79,-417" style=""/>
+<text text-anchor="middle" x="247.87" y="-529.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- Sirius_by_Humanity.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="148.79" cy="-250" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="148.79" y="-245.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- Sirius_by_Humanity._mint -->
+<g id="node9" class="node" pointer-events="visible" data-name="Sirius_by_Humanity._mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="384.95" cy="-196" rx="33.64" ry="18" style=""/>
+<text text-anchor="middle" x="384.95" y="-191.8" font-family="Times,serif" font-size="14.00" style="">_mint</text>
+</g>
+<!-- Sirius_by_Humanity.&lt;Constructor&gt;&#45;&gt;Sirius_by_Humanity._mint -->
+<g id="edge1" class="edge" data-name="Sirius_by_Humanity.&lt;Constructor&gt;-&gt;Sirius_by_Humanity._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M206.05,-239.19C229.47,-234.51 256.91,-228.78 281.58,-223 301.26,-218.39 322.92,-212.76 341.23,-207.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="341.94,-211.27 350.68,-205.27 340.11,-204.51 341.94,-211.27" style=""/>
+</g>
+<!-- Sirius_by_Humanity.next_midnight -->
+<g id="node2" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.next_midnight">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="384.95" cy="-331" rx="67.23" ry="18" style=""/>
+<text text-anchor="middle" x="384.95" y="-326.8" font-family="Times,serif" font-size="14.00" style="">next_midnight</text>
+</g>
+<!-- Sirius_by_Humanity.add_Users_Claiming_List -->
+<g id="node3" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.add_Users_Claiming_List">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="148.79" cy="-358" rx="112.35" ry="18" style=""/>
+<text text-anchor="middle" x="148.79" y="-353.8" font-family="Times,serif" font-size="14.00" style="">add_Users_Claiming_List</text>
+</g>
+<!-- Sirius_by_Humanity.add_Users_Claiming_List&#45;&gt;Sirius_by_Humanity.next_midnight -->
+<g id="edge2" class="edge" data-name="Sirius_by_Humanity.add_Users_Claiming_List-&gt;Sirius_by_Humanity.next_midnight">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M243.34,-347.21C265.08,-344.71 287.93,-342.07 308.76,-339.67" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="308.89,-343.18 318.42,-338.56 308.09,-336.22 308.89,-343.18" style=""/>
+</g>
+<!-- Sirius_by_Humanity.change_Users_TokensToClaim -->
+<g id="node4" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.change_Users_TokensToClaim">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="148.79" cy="-304" rx="132.58" ry="18" style=""/>
+<text text-anchor="middle" x="148.79" y="-299.8" font-family="Times,serif" font-size="14.00" style="">change_Users_TokensToClaim</text>
+</g>
+<!-- Sirius_by_Humanity.change_Users_TokensToClaim&#45;&gt;Sirius_by_Humanity.next_midnight -->
+<g id="edge3" class="edge" data-name="Sirius_by_Humanity.change_Users_TokensToClaim-&gt;Sirius_by_Humanity.next_midnight">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M254.2,-316.04C272.47,-318.15 291.16,-320.3 308.45,-322.29" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="308.03,-325.77 318.37,-323.44 308.84,-318.82 308.03,-325.77" style=""/>
+</g>
+<!-- Sirius_by_Humanity.remove_from_List -->
+<g id="node5" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.remove_from_List">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="148.79" cy="-196" rx="83.39" ry="18" style=""/>
+<text text-anchor="middle" x="148.79" y="-191.8" font-family="Times,serif" font-size="14.00" style="">remove_from_List</text>
+</g>
+<!-- Sirius_by_Humanity.TokenAvailableToClaim -->
+<g id="node6" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.TokenAvailableToClaim">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="148.79" cy="-142" rx="107.66" ry="18" style=""/>
+<text text-anchor="middle" x="148.79" y="-137.8" font-family="Times,serif" font-size="14.00" style="">TokenAvailableToClaim</text>
+</g>
+<!-- Sirius_by_Humanity.claim -->
+<g id="node7" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.claim">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="148.79" cy="-88" rx="32.47" ry="18" style=""/>
+<text text-anchor="middle" x="148.79" y="-83.8" font-family="Times,serif" font-size="14.00" style="">claim</text>
+</g>
+<!-- Sirius_by_Humanity.claim&#45;&gt;Sirius_by_Humanity._mint -->
+<g id="edge4" class="edge" data-name="Sirius_by_Humanity.claim-&gt;Sirius_by_Humanity._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M182.25,-90.42C209.77,-93.44 249.72,-100.16 281.58,-115 310.8,-128.6 339.14,-152.09 358.57,-170.28" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="356.06,-172.72 365.69,-177.13 360.91,-167.68 356.06,-172.72" style=""/>
+</g>
+<!-- Sirius_by_Humanity.return_To_Owner -->
+<g id="node8" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.return_To_Owner">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="148.79" cy="-34" rx="80.51" ry="18" style=""/>
+<text text-anchor="middle" x="148.79" y="-29.8" font-family="Times,serif" font-size="14.00" style="">return_To_Owner</text>
+</g>
+<!-- Sirius_by_Humanity.transfer -->
+<g id="node10" class="node" pointer-events="visible" data-name="Sirius_by_Humanity.transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="384.95" cy="-34" rx="40.55" ry="18" style=""/>
+<text text-anchor="middle" x="384.95" y="-29.8" font-family="Times,serif" font-size="14.00" style="">transfer</text>
+</g>
+<!-- Sirius_by_Humanity.return_To_Owner&#45;&gt;Sirius_by_Humanity.transfer -->
+<g id="edge5" class="edge" data-name="Sirius_by_Humanity.return_To_Owner-&gt;Sirius_by_Humanity.transfer">
+
+<path fill="none" stroke="#80e097" stroke-width="2" d="M230.7,-34C263.6,-34 300.73,-34 330.2,-34" style=""/>
+<polygon fill="#80e097" stroke="#80e097" stroke-width="2" points="330.13,-37.5 340.13,-34 330.13,-30.5 330.13,-37.5" style=""/>
+</g>
+<!-- key -->
+<g id="node11" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="213.79,-513 83.79,-513 83.79,-425 213.79,-425 213.79,-513" style=""/>
+<text text-anchor="start" x="133.43" y="-494.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="129.54" y="-474.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="106.99" y="-454.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="93.39" y="-434.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node12" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="411.95,-513 357.95,-513 357.95,-425 411.95,-425 411.95,-513" style=""/>
+<text text-anchor="start" x="374.95" y="-494.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="374.95" y="-474.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="372.95,-449 372.95,-469 397.95,-469 397.95,-449 372.95,-449" style=""/>
+<text text-anchor="start" x="374.95" y="-454.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="374.95,-431 374.95,-447 395.95,-447 395.95,-431 374.95,-431" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge6" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M206.79,-499C275.75,-499 296.12,-499 359.19,-499" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="358.92,-502.5 368.92,-499 358.92,-495.5 358.92,-502.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge7" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M206.79,-479C275.75,-479 296.12,-479 359.19,-479" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="358.92,-482.5 368.92,-479 358.92,-475.5 358.92,-482.5" style=""/>
+</g>
+</g>
+</svg>
